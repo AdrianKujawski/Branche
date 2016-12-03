@@ -20,6 +20,10 @@ namespace Branche {
 		static int Sub(int firstNumber, int secondNumber) {
 			return firstNumber - secondNumber;
 		}
+
+		static int Mult(int firstNumber, int secondNumber) {
+			return firstNumber * secondNumber;
+		}
 	}
 
 
