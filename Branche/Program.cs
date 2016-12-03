@@ -11,4 +11,28 @@ namespace Branche {
 			Console.ReadLine();
 		}
 	}
+
+
+	class MyMath {
+
+		static int Add(int firstNumber, int secondNumber) {
+			return firstNumber + secondNumber;
+		}
+
+		static int Sub(int firstNumber, int secondNumber) {
+			return firstNumber - secondNumber;
+		}
+
+		static int Mult(int firstNumber, int secondNumber) {
+			return firstNumber * secondNumber;
+		}
+	}
+
+
+	class StringOperation {
+
+		static string JoinTexts(string firstText, string secondString) {
+			return firstText + secondString;
+		}
+	}
 }
