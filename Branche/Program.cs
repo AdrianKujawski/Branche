@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Branche {
 	class Program {
 		static void Main(string[] args) {
-			Console.WriteLine("Witaj!");
+			Console.WriteLine("Witaj zgredek!");
 			Console.ReadLine();
 		}
 	}
